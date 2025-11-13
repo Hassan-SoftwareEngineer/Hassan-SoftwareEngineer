@@ -37,20 +37,44 @@ Currently, I’m expanding my focus on **AI integrations (OpenAI, Mistral)** and
 ## 🚀 Featured Projects
 
 ### 🎮 [SubZero – Game-Based Learning Platform](https://subzero.games/)
-A full-stack learning management system (CMS) connecting students, coaches, and admins.  
-Includes course uploads, subscription-based private content, dashboards, 1-to-1 chat, community channels, and complete admin management with role-based access.
+
+Developed a **full-stack game-based learning management system (CMS)** connecting students, coaches, and admins to enable interactive and engaging learning experiences.  
+Coaches can upload courses with both public and subscription-based private content, while students access content based on their subscription status.
+
+Built dashboards for students and coaches featuring course access, progress tracking, 1-to-1 chat, and multiple community channels for collaborative learning.  
+Implemented comprehensive profile management for all users with **role-based permissions** to ensure secure access control.
+
+Designed and developed **admin panels** to manage users, content, and banner ads — including the ability to view or remove students and coaches and configure system-wide settings.  
+Created a **responsive, user-friendly interface** with seamless backend integration for smooth data flow and consistent performance.  
+
+**Skills:** TypeScript · React.js · Express.js · Node.js · Cloudinary · MongoDB · Figma · WebSockets · Atomic Design · Tailwind CSS
 
 ---
 
-### 🧠 Learn Anything – AI-Powered Tutoring SaaS
-A SaaS platform acting as an AI tutor for teachers and students.  
-Features include instant marking, personalized feedback, live chat, AI-generated performance summaries, and interactive dashboards with role-based access.
+### 🧠 [Learn Anything – AI-Powered Tutoring SaaS](https://www.learnanything.com)
+
+Built a **SaaS platform that serves as an AI tutor** for teachers and students, offering instant marking, personalized feedback, live chat support, and adaptive learning experiences.  
+Teachers can create and manage quizzes, generate performance summaries, and review AI-marked student work, while students receive automated grading and real-time learning feedback.
+
+Designed **role-based dashboards and workflows** for teachers, students, and administrators to ensure efficient communication and data management.  
+Integrated **OpenAI** for automated marking, report generation, and scalable tutoring experiences across subjects.
+
+This project demonstrates proficiency in building **AI-integrated SaaS applications** with focus on scalability, automation, and real-world learning impact.  
+
+**Skills:** OpenAI · Node.js · Express.js · MySQL · Next.js · Tailwind CSS · WebSockets
 
 ---
 
 ### 🎨 NFT Platform Design – Frontend Prototype
-Fully responsive, high-standard NFT marketplace design built with Next.js, TypeScript, Tailwind CSS, shadcn/ui, and Framer Motion.  
-Follows Atomic Design principles with reusable components, clean animations, and optimized UX across all devices.
+
+Designed a **fully responsive, high-standard frontend prototype** for an NFT marketplace, built with **Next.js** and **TypeScript**.  
+The design showcases **modern component-based architecture**, following **Atomic Design principles** for scalability and maintainability.
+
+Implemented reusable UI components with **smooth animations and micro-interactions** using Framer Motion and shadcn/ui.  
+Focused on **clarity, performance, and usability**, ensuring consistent responsiveness across all devices.  
+High-fidelity screenshots highlight the polished layout and user-centric design system.
+
+**Skills:** Next.js · Tailwind CSS · shadcn/ui · Acertinity · TypeScript · Atomic Design · Framer Motion
 
 ---
 
