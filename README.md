@@ -1,85 +1,88 @@
-# 👋 Hello, I’m Hassan Javed | Software Engineer
+<h1 align="center">👋 Hi, I'm Hassan Javed</h1>
+<h3 align="center">Full Stack Software Engineer | MERN Stack | Next.js | Laravel | OpenAI Integrations</h3>
 
-## About Me
-I am a Software Engineer specializing in **Frontend Development**, with a strong focus on **React JS**, **Next.js**, and **Tailwind CSS**.
-I have a deep understanding of building **scalable, high-performance web applications** and delivering **seamless user experiences**. 
-With a solid foundation in **Java Desktop Application Development** and **Web Scraping** using Python.
-I am always eager to explore new technologies and contribute to innovative projects.
-
-Currently, I am advancing my skills in **MERN Stack Web Development**, aiming to stay at the forefront of emerging technologies in the development world.
-
-## Key Skills
-
-### 🌐 **Frontend Development**
-- **React JS**, **Next.js**, **JavaScript (ES6+)**, **TypeScript**, **HTML5**, **CSS3**, **Tailwind CSS**
-- **Responsive Web Design** & **Cross-Browser Compatibility**
-- **State Management** (Redux, Context API)
-- **Component-based Architecture** and **Functional Programming
-- **RESTful APIs Integration**
-
-### 💻 **Java Desktop Application Development**
-- **Java** (Swing, JavaFX)
-- Building and deploying robust desktop applications
-- GUI design and event handling in Java
-
-### 🐍 **Web Scraping & Automation**
-- **Python** (BeautifulSoup, Selenium, Scrapy)
-- Data Extraction, Cleaning, and Analysis for various applications
-
-### 🛠️ **Other Tools & Technologies**
-- **Git**, **GitHub**
-- **CI/CD**, **Agile Development**, **Test-Driven Development (TDD)**
-
-## Projects
-
-🛒 Luna Bird Store
-An e-commerce platform tailored for bird enthusiasts, showcasing my expertise in React JS and state management.
-The platform delivers a seamless user experience, combining aesthetic design with robust functionality.
-
-Key Features:
-
-product listings categorized for easy navigation.
-Comprehensive cart management system for a smooth purchasing process.
-Integrated category options to help users quickly find desired products.
-This project highlights my ability to build engaging, user-friendly web applications.
-
-🌍 TryGhelaf (Arab Country Project)
-An outsourced project aimed at developing a platform to connect professionals with users in need of their expertise. 
-The platform includes three distinct user roles: User View, Expert View, and Admin View, ensuring tailored functionality for each stakeholder.
-
-Key Features:
-
-User View: Seamless registration and browsing for services provided by experts.
-Expert View: Tools to showcase expertise, manage service offerings, and communicate with clients.
-Admin View: Comprehensive management of users, experts, services, and platform analytics.
-This project demonstrates my ability to work on large-scale, multi-role platforms, catering to a diverse user base while meeting regional requirements.
-
-🚗 Subhan Motors
-Developed at TenzSoft, Subhan Motors is a trusted automotive platform with over 20 years of industry presence. 
-It serves as a comprehensive solution for vehicle enthusiasts, offering a variety of options and a seamless user experience.
-
-Key Features:
-
-User View: Access to blogs, listings of used cars, brand-new vehicles, and imported cars.
-Admin View: Tools to manage vehicle inventory, blogs, and user interactions efficiently.
-The platform’s design emphasizes user-friendliness and reliability, reflecting Subhan Motors’ dedication to quality and customer satisfaction.
-
-
-## 📞 Contact Information
-
-- 📧 **Email**: [hassan.javed.softwareengineer@gmail.com](mailto:hassan.javed.softwareengineer@gmail.com)
-- 🔗 **LinkedIn**: [Hassan Javed](https://www.linkedin.com/in/hassansoftwareengineer/)
-
-## 🎯 Current Focus
-I am focusing on expanding my expertise in **React Native** and **Python Data Analysis**, while continually refining my frontend development skills to deliver more dynamic and responsive user interfaces.
-
-## 🤝 Collaboration
-I’m open to collaboration on projects that involve **Frontend Development**, **Java Desktop Applications**, or **Web Scraping**.
-If you are working on an innovative project that aligns with my expertise, feel free to reach out!
-
-## 🎉 Fun Fact
-In my spare time, I love experimenting with new technologies, building robots, and exploring new ways to enhance the user experience.
+<p align="center">
+  <a href="https://www.linkedin.com/in/hassansoftwareengineer/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:hassan.javed.softwareengineer@gmail.com"><img src="https://img.shields.io/badge/Email-hassan.javed.softwareengineer%40gmail.com-red?logo=gmail&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=hassan-javed&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
 ---
 
-Feel free to explore my repositories and connect with me for potential collaborations or inquiries.
+## 👨‍💻 About Me
+
+I’m a **Software Engineer** with 2+ years of experience specializing in **Full Stack Web Development** using the **MERN Stack** and **Laravel**.  
+I’m passionate about building **scalable, high-performance web applications** with clean architecture, strong security, and seamless user experience.  
+
+My expertise spans **frontend frameworks** like React.js and Next.js, modern UI systems with **Tailwind CSS**, **shadcn/ui**, and **Framer Motion**, and **backend development** with Node.js, Express.js, and Laravel.  
+I also have hands-on experience with **web scraping and data extraction** using Python (BeautifulSoup, Selenium, Scrapy).  
+
+Currently, I’m expanding my focus on **AI integrations (OpenAI, Mistral)** and **SaaS application development**, with a strong commitment to continuous learning and innovation.
+
+---
+
+## 🧠 Tech Stack
+
+**Frontend:** React.js, Next.js, Tailwind CSS, Material-UI, shadcn/ui, Framer Motion  
+**Backend:** Node.js, Express.js, Laravel, PHP  
+**Databases:** MongoDB (Mongoose), MySQL, PostgreSQL  
+**Full-Stack:** MERN Stack, Laravel MVC, SSR (Blade)  
+**Authentication & Security:** JWT, role-based access, secure cookies, XSS/CSRF protection  
+**APIs & Integrations:** RESTful APIs, OpenAI (Mistral), Stripe, Merchant Warrior, Cloudinary, Dynamic (Blockchain message signing)  
+**Dev Tools:** Git, GitHub, Bitbucket, Docker  
+**Testing:** Basic Unit Testing  
+**Web Scraping:** Python (BeautifulSoup, Selenium, Scrapy)
+
+---
+
+## 🚀 Featured Projects
+
+### 🎮 [SubZero – Game-Based Learning Platform](https://subzero.games/)
+A full-stack learning management system (CMS) connecting students, coaches, and admins.  
+Includes course uploads, subscription-based private content, dashboards, 1-to-1 chat, community channels, and complete admin management with role-based access.
+
+---
+
+### 🧠 Learn Anything – AI-Powered Tutoring SaaS
+A SaaS platform acting as an AI tutor for teachers and students.  
+Features include instant marking, personalized feedback, live chat, AI-generated performance summaries, and interactive dashboards with role-based access.
+
+---
+
+### 🎨 NFT Platform Design – Frontend Prototype
+Fully responsive, high-standard NFT marketplace design built with Next.js, TypeScript, Tailwind CSS, shadcn/ui, and Framer Motion.  
+Follows Atomic Design principles with reusable components, clean animations, and optimized UX across all devices.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hassan-javed&show_icons=true&theme=tokyonight" alt="Hassan's GitHub stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassan-javed&layout=compact&theme=tokyonight" alt="Top Languages" height="165" />
+</p>
+
+---
+
+## 📫 Connect With Me
+
+- 📧 [hassan.javed.softwareengineer@gmail.com](mailto:hassan.javed.softwareengineer@gmail.com)  
+- 💼 [LinkedIn – Hassan Javed](https://www.linkedin.com/in/hassansoftwareengineer/)  
+
+---
+
+## 🎯 Current Focus
+
+Currently enhancing my expertise in **AI integrations**, **SaaS products**, and **scalable full-stack solutions** using the MERN Stack and Laravel.  
+Exploring **automation with Python** and **modern UI architectures** for future-ready web applications.
+
+---
+
+## 🤝 Collaboration
+
+I’m open to collaborating on projects involving **MERN Stack**, **Next.js**, **Laravel**, or **AI-powered web applications**.  
+Let’s connect to build something impactful and innovative together.
+
+---
+
+⭐ *Feel free to explore my repositories and reach out for collaboration or hiring opportunities.*
