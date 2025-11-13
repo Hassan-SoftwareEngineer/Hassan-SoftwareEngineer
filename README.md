@@ -4,7 +4,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/hassansoftwareengineer/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" /></a>
   <a href="mailto:hassan.javed.softwareengineer@gmail.com"><img src="https://img.shields.io/badge/Email-hassan.javed.softwareengineer%40gmail.com-red?logo=gmail&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=hassan-javed&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
@@ -52,15 +51,6 @@ Features include instant marking, personalized feedback, live chat, AI-generated
 ### 🎨 NFT Platform Design – Frontend Prototype
 Fully responsive, high-standard NFT marketplace design built with Next.js, TypeScript, Tailwind CSS, shadcn/ui, and Framer Motion.  
 Follows Atomic Design principles with reusable components, clean animations, and optimized UX across all devices.
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hassan-javed&show_icons=true&theme=tokyonight" alt="Hassan's GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassan-javed&layout=compact&theme=tokyonight" alt="Top Languages" height="165" />
-</p>
 
 ---
 
