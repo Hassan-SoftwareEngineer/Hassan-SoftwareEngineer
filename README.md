@@ -36,6 +36,20 @@ Currently, I’m expanding my expertise in **AI-powered systems**, **blockchain 
 
 <h2>🚀 Featured Projects</h2>
 
+<h3>🧠 <a href="https://www.learnanything.com/" target="_blank">Learn Anything – AI-Powered Tutoring SaaS</a></h3>
+
+Developed a **SaaS platform that serves as an AI tutor** for teachers and students, offering **instant marking**, **personalized feedback**, **live chat**, and **adaptive learning experiences**.  
+Teachers can create and manage quizzes, track student performance, and leverage AI for feedback and summary generation, while students receive personalized support in real time.
+
+Built **role-based dashboards** for teachers, students, and administrators to ensure smooth interaction and efficient workflow.  
+Integrated **OpenAI** for automatic grading, performance insights, and scalable tutoring experiences across multiple subjects.
+
+This project highlights expertise in **AI integration**, **SaaS product development**, and building **data-driven, user-centric platforms**.
+
+**Skills:** OpenAI · Node.js · Express.js · MySQL · Next.js · Tailwind CSS · WebSockets
+
+---
+
 <h3>🎮 <a href="https://subzero.games/" target="_blank">SubZero – Game-Based Learning Platform</a></h3>
 
 Developed a **full-stack game-based learning management system (CMS)** connecting students, coaches, and admins to enable interactive and engaging learning experiences.  
@@ -48,20 +62,6 @@ Designed **admin panels** to manage users, content, and banner ads — including
 Developed a **responsive, high-performance frontend** and robust backend APIs ensuring smooth data flow and scalability.
 
 **Skills:** TypeScript · React.js · Express.js · Node.js · Cloudinary · MongoDB · Figma · WebSockets · Atomic Design · Tailwind CSS
-
----
-
-<h3>🧠 <a href="https://www.learnanything.com/" target="_blank">Learn Anything – AI-Powered Tutoring SaaS</a></h3>
-
-Developed a **SaaS platform that serves as an AI tutor** for teachers and students, offering **instant marking**, **personalized feedback**, **live chat**, and **adaptive learning experiences**.  
-Teachers can create and manage quizzes, track student performance, and leverage AI for feedback and summary generation, while students receive personalized support in real time.
-
-Built **role-based dashboards** for teachers, students, and administrators to ensure smooth interaction and efficient workflow.  
-Integrated **OpenAI** for automatic grading, performance insights, and scalable tutoring experiences across multiple subjects.
-
-This project highlights expertise in **AI integration**, **SaaS product development**, and building **data-driven, user-centric platforms**.
-
-**Skills:** OpenAI · Node.js · Express.js · MySQL · Next.js · Tailwind CSS · WebSockets
 
 ---
 
