@@ -65,7 +65,7 @@ This project highlights expertise in **AI integration**, **SaaS product developm
 
 ---
 
-<h3>🎨 NFT Platform Design – Frontend Prototype</h3>
+<h3>🎨 <a href="https://nft-platform-design.vercel.app/" target="_blank"> NFT Platform Design – Frontend Prototype </a> </h3>
 
 Designed a **fully responsive, high-standard NFT marketplace prototype** built with **Next.js** and **TypeScript**.  
 Followed **Atomic Design principles** to create reusable UI components with smooth animations using **Framer Motion** and **shadcn/ui**.
